@@ -24,4 +24,3 @@ if submitted:
         st.write("**Feedback:**", feedback)
     else:
         st.error("❌ Please fill Name and Email")
-``
